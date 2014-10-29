@@ -1,2 +1,2 @@
-MISY430-TeamZZ
+The name of our application is POPcorn! The application will begin to play a movie quote clip. A random actor/actress speaks a line and the user is prompted to guess based on the category that was selected. The categories are genre-based: action/adventure, comedy, horror, and drama. Once the user selects a genre, he/she will be brought to a screen that display the sub-categories: “guess the movie!,” “guess the actor,” or “guess the character name.” You can compete against others to race to see who can guess the movie first or play in a social setting with teams. Once the sound clip is played, the user can choose to replay the clip with the consequence of a time and/or point penalty. 
 ==============
